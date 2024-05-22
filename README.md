@@ -32,4 +32,4 @@ Tenho 22 Anos, moro em São paulo(SP), Sou iniciante neste universo da programa�
 📷 Compartilho por aqui minhas experiências que estou aprendendo com cada ferramneta de programação nova e também projetos de desenvovimento.
 ##
 ![MAtheus9989 GitHub stats](https://github-readme-stats.vercel.app/api?username=MAtheus9989&show_icons=true&theme=dracula)
-![MAtheus9989 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)
+![MAtheus9989 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MAtheus9989&layout=compact&theme=dracula)
